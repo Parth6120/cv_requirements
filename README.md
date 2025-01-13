@@ -67,3 +67,7 @@ That in some arguable way make you a better software developer or well-rounded p
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
+
+## Additional note
+
+Use action verb at the start of any bullet points of your project and work experience.
